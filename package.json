@@ -1,6 +1,5 @@
 {
   "private": true,
-  "homepage": "./",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",

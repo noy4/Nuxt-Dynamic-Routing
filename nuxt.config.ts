@@ -1,6 +1,6 @@
 export default defineNuxtConfig({
   ssr: false,
-  router: {
-    base: '/Nuxt-Dynamic-Routing/',
+  app: {
+    baseURL: '/Nuxt-Dynamic-Routing/',
   },
 })
