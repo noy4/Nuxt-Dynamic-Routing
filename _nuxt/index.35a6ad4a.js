@@ -1,0 +1,1 @@
+import{a as t,o,e as n,j as s,w as a,F as c,f as _,k as r,l as d}from"./entry.870e0234.js";const l={},f=_("div",null,"Hey",-1);function i(p,u){const e=r;return o(),n(c,null,[f,s(e,{to:"/posts/111"},{default:a(()=>[d("Go to post 111")]),_:1})],64)}const m=t(l,[["render",i]]);export{m as default};
